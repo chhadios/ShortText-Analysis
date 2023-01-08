@@ -3,11 +3,16 @@
   margin: 0;
   padding: 0;
 }
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  line-height: 1.4;
+  background: #fff;
+  color: #444;
+}
 .App {
   text-align: center;
 
 }
-
 .Sub_header {
   padding: 10px;
   font-size: large;
@@ -23,14 +28,6 @@
   margin-left: 5%;
   margin-bottom: 20px;
 }
-
-body {
-  font-family: "Segoe UI", Arial, sans-serif;
-  line-height: 1.4;
-  background: #fff;
-  color: #444;
-}
-
 .container {
   max-width: 600px;
   margin: 6rem auto 4rem;
